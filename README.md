@@ -76,11 +76,11 @@ python bot.py
 ```
 Arabic-translation-bot/
 ├── LICENSE              # Project license
-├── README.md            # Project documentation
-├── bot.py               # Main bot source code
-├── build.sh             # Deployment/build script
-├── package.txt          # System packages required during deployment
-├── requirements.txt     # Python dependencies
+├── README.md           # This file
+├── bot.py              # Main bot code
+├── build.sh            # Deployment/build script
+├── package.txt         # System packages required during deployment
+└── requirements.txt    # Python dependencies
 ```
 
 ---
