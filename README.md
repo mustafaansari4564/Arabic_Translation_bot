@@ -75,11 +75,12 @@ python bot.py
 
 ```
 Arabic-translation-bot/
-├── bot.py              # Main bot code
-├── requirements.txt    # Python dependencies
-├── .env                # Environment variables (never commit this!)
-├── .gitignore          # Git ignore file
-└── README.md           # This file
+├── LICENSE              # Project license
+├── README.md            # Project documentation
+├── bot.py               # Main bot source code
+├── build.sh             # Deployment/build script
+├── package.txt          # System packages required during deployment
+├── requirements.txt     # Python dependencies
 ```
 
 ---
